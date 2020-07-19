@@ -1,0 +1,17 @@
+# Webstorm
+.idea/
+
+# dotenv environment variables file (build for Zeit Now)
+.DS_Store
+.env
+.env.build
+.env.local
+
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
